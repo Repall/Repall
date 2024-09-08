@@ -1,4 +1,4 @@
-# Repall - Développeur Frontend
+# Repall
 ## [repall.fr](https://repall.fr)
 
 Développeur Web Frontend
