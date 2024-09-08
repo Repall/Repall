@@ -21,4 +21,4 @@ Passionné par le design web et le développement frontend, je mets à profit me
 ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Repall&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Repall&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
