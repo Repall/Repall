@@ -1,5 +1,4 @@
 # Repall ^^
-## [corentindev.fr](https://corentindev.fr)
 
 Développeur Web Frontend
 
